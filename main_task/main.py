@@ -15,4 +15,4 @@ def cable_connection_expenses(list_of_cables):
 
 list_of_cables = [3,12,2,5,8,16,1,14,4,7,6,8,9,11]
 
-print(f'Сумарні витрати на зєднання кабелю: {cable_connection_expenses(list_of_cables)}')
+print(f'Сумарні витрати на з’єднання кабелю: {cable_connection_expenses(list_of_cables)} у.о.')
